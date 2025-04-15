@@ -1,6 +1,6 @@
-Here’s the full `README.md` file content in English for you to copy and use directly in your project:
 
-```markdown
+
+
 # 3D Surface Reconstruction from Point Cloud
 
 This project implements two common 3D surface reconstruction algorithms — **Poisson Surface Reconstruction** and **Marching Cubes** — using the Open3D library. It processes a raw point cloud, filters noise, reconstructs a mesh, transfers colors, and visualizes or exports the result.
