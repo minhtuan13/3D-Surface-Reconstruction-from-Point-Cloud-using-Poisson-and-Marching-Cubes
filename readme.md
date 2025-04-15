@@ -1,6 +1,3 @@
-
-
-
 # 3D Surface Reconstruction from Point Cloud
 
 This project implements two common 3D surface reconstruction algorithms — **Poisson Surface Reconstruction** and **Marching Cubes** — using the Open3D library. It processes a raw point cloud, filters noise, reconstructs a mesh, transfers colors, and visualizes or exports the result.
@@ -40,7 +37,7 @@ surface_reconstruction_project/
 │       ├── base.py                # Abstract base class for reconstructors
 │       ├── poisson.py             # Poisson reconstruction implementation
 │       └── marching_cubes.py      # Marching Cubes implementation
-
+```
 
 ---
 
