@@ -40,7 +40,7 @@ surface_reconstruction_project/
 │       ├── base.py                # Abstract base class for reconstructors
 │       ├── poisson.py             # Poisson reconstruction implementation
 │       └── marching_cubes.py      # Marching Cubes implementation
-```
+
 
 ---
 
