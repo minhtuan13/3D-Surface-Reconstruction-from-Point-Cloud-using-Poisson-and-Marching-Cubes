@@ -28,7 +28,7 @@ surface_reconstruction_project/
 │
 ├── main.py                        # Entry point to choose reconstruction mode
 ├── data/
-│   └── wheel.ply                  # Sample input point cloud
+│   └── point_cloud.ply                  # Sample input point cloud
 ├── outputs/
 │   └── (exported mesh files)
 ├── src/
