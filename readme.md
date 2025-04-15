@@ -9,7 +9,8 @@ This project implements two common 3D surface reconstruction algorithms — **Po
 - **Point Cloud Loading & Visualization**: Load and visualize 3D point cloud (.ply format)
 - **Noise Filtering**:
   - **DBSCAN** (Density-Based Clustering)
-  - **Statistical Outlier Removal (SOR)**
+  - **Statistical Outlier Removal**
+  - **Radius Outlier Removal**
 - **Normal Estimation**: Estimate normals for the point cloud
 - **Surface Reconstruction**:
   - **Poisson Reconstruction**: Generates watertight surfaces from point clouds
